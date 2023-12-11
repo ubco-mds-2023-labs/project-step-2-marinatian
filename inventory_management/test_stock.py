@@ -1,5 +1,5 @@
 import unittest
-from stock import StockManager, PerishableStockManager
+from inventory_management.stock import StockManager, PerishableStockManager
 
 class TestStockManager(unittest.TestCase):
 
