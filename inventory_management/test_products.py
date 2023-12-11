@@ -1,5 +1,5 @@
 import unittest
-from products import ProductManager
+from inventory_management.products import ProductManager
 
 class TestProductManager(unittest.TestCase):
 
